@@ -1,7 +1,10 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-streamlit
+pandas  
+numpy  
+matplotlib  
+seaborn  
+plotly  
+scikit-learn  
+streamlit  
+xlrd  
+openpyxl  
+requests  
