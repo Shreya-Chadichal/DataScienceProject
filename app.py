@@ -9,7 +9,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import streamlit as st
 
 # Step 1: Load Dataset from User Input
-st.title("Superstore Sales Analysis")
+st.title("Zepto Sales Analysis")
 file = st.file_uploader("Upload a CSV, XLSX, XLS, or TXT file", type=["csv", "xlsx", "xls", "txt"])
 
 if file is not None:
